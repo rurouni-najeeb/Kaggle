@@ -1,0 +1,381 @@
+---- Companion Dogs
+Affenpinscher  (Rev. 12/01/2014)
+American Bully  
+Bichon Frise  
+Biewer Terrier  
+Bolognese  
+Boston Terrier  
+Brussels Griffon  (Rev. 12/01/2014)
+Cavalier King Charles Spaniel  (Rev. 12/01/2014)
+Chihuahua  
+Chinese Crested  
+Coton De Tulear  
+Dalmatian  (Rev. 12/01/2014)
+English Bulldog  
+English Toy Spaniel  (Rev. 12/01/2014)
+French Bulldog  
+Havanese  (Rev. 12/01/2014)
+Italian Greyhound  
+Japanese Chin  
+Kromfohrlander  
+Lhasa Apso  
+Lowchen  
+Maltese  
+Mi-Ki  
+Miniature Pinscher  
+Multi-Colored Poodle  (Rev. 01/01/2014)
+Papillon  
+Pekingese  
+Pomeranian  
+Poodle  (Rev. 01/01/2014)
+Pug  
+Russkiy Toy  
+Schipperke  
+Shih Tzu  (Rev. 12/01/2014)
+Tibetan Spaniel  
+Tibetan Terrier  
+Yorkshire Terrier  (Rev. 12/01/2014)
+---- Guardian Dog
+Aidi (Atlas Mountain Dog)  
+Akbash Dog  
+Alentejo Mastiff  
+American Bulldog  
+Anatolian Shepherd  
+Appenzeller  
+Bernese Mountain Dog  
+Black Russian Terrier  
+Boxer  (Rev. 12/01/2014)
+Bullmastiff  
+Cane Corso Italiano  
+Cao de Castro Laboreiro  
+Caucasian Ovcharka  
+Central Asian Shepherd Dog  
+Cimarron Uruguayo  
+Danish Broholmer  
+Doberman Pinscher  
+Dogo Argentino  
+Dogue De Bordeaux  
+Entlebucher  (Rev. 01/01/2016)
+Estrela Mountain Dog  
+Giant Schnauzer  
+Great Dane  
+Great Pyrenees  
+Greater Swiss Mountain Dog  
+Hovawart  
+Kangal Dog  
+Karst Shepherd Dog  
+Komondor  
+Kuvasz  
+Leonberger  
+Majorca Mastiff  
+Maremma Sheepdog  
+Mastiff  
+Neapolitan Mastiff  
+Newfoundland  
+Olde English Bulldogge  (Rev. 01/01/2015)
+Owczarek Podhalanski  
+Perro De Presa Canario  
+Pyrenean Mastiff  
+Rottweiler  
+Saint Bernard  
+Sarplaninac  
+Slovac Cuvac  
+South African Boerboel  
+Spanish Mastiff  
+Standard Schnauzer  
+Tibetan Mastiff  (Rev. 01/01/2016)
+Tornjak  
+Tosa Ken  
+---- Gun Dog
+American Water Spaniel  
+Barbet  
+Boykin Spaniel  
+Bracco Italiano  
+Braque D'Auvergne  
+Braque de Bourbonnais  
+Braque de l'Ariege  
+Braque Francais, de Grande Taille  
+Braque Francais, de Petite Taille  
+Braque Saint Germain  
+Brittany  
+Cesky Fousek  
+Chesapeake Bay Retriever  
+Clumber Spaniel  
+Cocker Spaniel  
+Curly-Coated Retriever  
+Deutscher Wachtelhund (German Spaniel)  
+Drentse Patrijshond  
+English Cocker Spaniel  
+English Pointer  
+English Setter  (Rev. 07/01/2015)
+English Springer Spaniel  
+Epagneul Bleu de Picardie 
+Epagneul de Pont-Audemer  
+Epagneul Francais (French Spaniel)  
+Epagneul Picard  
+Field Spaniel  
+Flat Coated Retriever  
+Fresian Water Dog  
+German Long Haired Pointer  
+German Rough Haired Pointer  
+German Shorthaired Pointer  (Rev. 03/15/2016)
+German Wirehaired Pointer  
+Golden Retriever  
+Gordon Setter  
+Hungarian Wire-Haired Vizsla  
+Irish Red and White Setter  
+Irish Setter  
+Irish Water Spaniel  
+Kooikerhondje  
+Labrador Retriever  (Rev. 12/01/2014)
+Lagotto Romagnolo  
+Large Munsterlander  
+Multi-Colored Standard Poodle  
+Nova Scotia Duck Tolling Retriever  
+Old Danish Pointing Dog  
+Perdiguero de Burgos  
+Portuguese Pointer  
+Portuguese Water Dog  
+Pudelpointer  
+Slovakian Wire-Haired Pointing Dog  
+Small Munsterlander  
+Spinone Italiano  
+Stabyhoun  
+Standard Poodle  
+Sussex Spaniel  
+Vizsla  
+Weimaraner  
+Welsh Springer Spaniel  
+Wirehaired Pointing Griffon  
+---- Herding Dog
+Australian Cattle Dog  
+Australian Kelpie  
+Australian Shepherd  
+Bearded Collie  
+Beauceron  
+Belgian Shepherd Dog  
+Bergamasco  
+Berger Des Pyrenees  
+Berger Picard  
+Border Collie  (Rev. 12/01/2014)
+Bouvier Des Ardennes  
+Bouvier des Flandres  
+Briard  
+Ca de Bestiar (Majorca Shepherd Dog)  
+Cardigan Welsh Corgi  
+Catalonian Sheepdog  
+Ciobanesc Romanesc Carpatin  
+Ciobanesc Romanesc Mioritic  
+Collie  
+Croatian Sheepdog  
+Czechoslovakian Vlcak (Czechoslovakian Wolfdog)  
+Dutch Shepherd  
+English Shepherd  (Rev. 12/01/2014)
+German Shepherd Dog  (Rev. 12/01/2014)
+Icelandic Sheepdog  
+Lancashire Heeler  
+Lapinporokoira (Lapponian Herder)  
+Louisiana Catahoula Leopard Dog  
+Miniature American Shepherd  
+Mudi  
+Old English Sheepdog  
+Pembroke Welsh Corgi  
+Polski Owczarek Nizinny (Polish Owczarek Nizinny)  
+Portuguese Sheepdog  
+Puli  
+Pumi  
+Saarloosewolfdog  
+Schapendoes  
+Shetland Sheepdog  
+South Russian Shepherd Dog  
+Spanish Water Dog  
+Stumpy Tail Cattle Dog  
+Swedish Vallhund  
+White Shepherd  (Rev. 12/01/2014)
+---- Northern Breed
+Akita  
+Alaskan Klee Kai  
+Alaskan Malamute  
+American Eskimo  
+Canadian Eskimo Dog  
+Chinese Shar-Pei  
+Chinook  
+Chow Chow  
+East Siberian Laika  
+Eurasian  
+Finnish Lapphund  
+Finnish Spitz  
+German Spitz  
+Greenland Dog  
+Hokkaido  
+Japanese Akita  
+Japanese Spitz  
+Jindo  
+Kai  
+Karelian Bear Dog  
+Keeshond  
+Kishu  
+Lundehund  
+Norrbottenspetz  
+Norwegian Buhund  
+Norwegian Elkhound  
+Russian-European Laika  
+Samoyed  
+Shiba  
+Shikoku  
+Siberian Husky  
+Swedish Elkhound  
+Swedish Lapphund  
+Volpino Italiano  
+West Siberian Laika  
+---- Scenthound
+Alpine Drachsbracke  
+American Black & Tan Coonhound  (Rev. 05/01/2016)
+American Black & Tan Coonhound  (Rev. 01/01/2016)
+American Foxhound  
+American Leopard Hound  (Rev. 01/01/2016)
+Anglo-Francais de Petite Venerie  
+Ariegeois  
+Austrian Black and Tan Hound  
+Barak  
+Basset Artesien Normand  
+Basset Bleu De Gascogne  
+Basset Fauve De Bretagne  
+Basset Hound  
+Bavarian Mountain Hound  
+Beagle  
+Beagle Harrier  
+Billy  
+Black Forest Hound (Slovakian Hound)  
+Black Mouth Cur  
+Bloodhound  
+Bluetick Coonhound  (Rev. 01/01/2016)
+Briquet Griffon Vendeen  
+Chien d'Artois  
+Chien Francais Blanc et Noir  
+Chien Francais Tricolore  
+Dachshund  
+Deutsche Bracke  
+Drever  
+Dunker  
+English Coonhound  (Rev. 01/01/2016)
+English Foxhound  
+Finnish Hound  
+Francais Blanc et Orange  
+Grand Basset Griffon Vendeen  
+Grand Bleu De Gascogne  
+Grand Gascon-Saintongeois  
+Grand Griffon Vendeen  
+Great Anglo-Francais Tricolor Hound  
+Great Anglo-Francais White and Black Hound  
+Great Anglo-Francais White and Orange Hound  
+Griffon Bleu de Gascogne  
+Griffon Fauve de Bretagne  
+Griffon Nivernais  
+Haldenstover (Halden Hound)   
+Hamiltonstovare  
+Hanoverian Hound  
+Harrier  
+Hellenic Hound  
+Hygen Hound  
+Istrian Coarse-Haired Hound  
+Istrian Short-Haired Hound  
+Italian Hound  
+Montenegrin Mountain Hound  
+Mountain Cur  
+Otterhound  
+Petit Basset Griffon Vendeen  
+Petit Bleu De Gascogne  
+Petit Gascon-Saintongeois  
+Plott Hound  (Rev. 01/01/2016)
+Poitevin  
+Polish Hound  
+Porcelaine  
+Posavaz Hound  
+Redbone Coonhound  (Rev. 01/01/2016)
+Schiller Hound  
+Serbian Hound  
+Serbian Tricolor Hound  
+Smaland Hound  
+Small Swiss Hound  
+Spanish Hound  
+Stephens' Cur  
+Styrian Coarse Haired Hound  
+Swiss Hound  
+Transylvanian Hound  
+Treeing Cur  
+Treeing Walker Coonhound  (Rev. 01/01/2016)
+Tyrolean Hound  
+Welsh Hound  
+Westphalian Dachsbracke  
+---- Sighthound and Pariah
+Afghan Hound  
+Azawakh  
+Basenji  
+Borzoi  
+Canaan Dog  
+Carolina Dog  (Rev. 01/01/2016)
+Chart Polski (Polish Greyhound)  
+Cirneco dell'Etna  
+Greyhound  
+Hungarian Greyhound (Magyar Agar)  
+Ibizan Hound  
+Irish Wolfhound  
+Peruvian Inca Orchid  
+Pharaoh Hound  
+Podenco Canario  
+Podengo Portugueso  
+Rhodesian Ridgeback  
+Saluki  
+Scottish Deerhound  
+Silken Windhound  
+Sloughi  
+Spanish Greyhound  
+Thai Ridgeback  
+Whippet  
+Xoloitzcuintli  
+---- Terrier
+Airedale Terrier  
+American Hairless Terrier  
+American Pit Bull Terrier  
+Australian Terrier  
+Austrian Pinscher  
+Bedlington Terrier  
+Border Terrier  
+Bull Terrier  
+Cairn Terrier  
+Cesky Terrier  
+Dandie Dinmont Terrier  
+Danish-Swedish Farmdog  
+Dutch Smoushond  
+German Pinscher  
+Glen of Imaal Terrier  
+Irish Terrier  
+Jack Russell Terrier  
+Jagdterrier  
+Japanese Terrier  
+Kerry Blue Terrier  
+Lakeland Terrier  
+Manchester Terrier  
+Miniature Bull Terrier  
+Miniature Schnauzer  (Rev. 01/01/2016)
+Mountain Feist  
+Norfolk Terrier  
+Norwich Terrier  
+Parson Russell Terrier 
+Patterdale Terrier  (Rev. 12/01/2014)
+Rat Terrier  
+Scottish Terrier  
+Sealyham Terrier  
+Silky Terrier  
+Skye Terrier  
+Smooth Fox Terrier  
+Soft-Coated Wheaten Terrier  
+Sporting Lucas Terrier  
+Staffordshire Bull Terrier  
+Teddy Roosevelt Terrier  
+Toy Fox Terrier  
+Treeing Feist  
+Welsh Terrier  
+West Highland White Terrier  
+Wire Fox Terrier  
